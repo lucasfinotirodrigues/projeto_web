@@ -1,4 +1,4 @@
-# ProjetoWeb
+# Projeto utilizando a PokeApi, projeto utilizando a linguagem Angular;
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
